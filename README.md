@@ -18,7 +18,7 @@ Functional → `functionality_storage`, `personalization_storage`; `security_sto
 
 Do these in order, so the commit named in `metadata.yaml` holds the final file.
 
-1. **Import and test.** In a GTM web container: Templates → Tag Templates → New → ⋮ → Import, and pick
+1. **Import and test.** In a GTM web container: left menu Show more → Templates → Tag Templates → New → ⋮ (editor's top right) → Import, and pick
    `template.tpl`. Open the Tests tab and run all tests; all must pass. Save.
 2. **Preview.** Add a tag from the template with your site ID and the Consent Initialization – All Pages trigger.
    Add a Google tag (or GA4) on All Pages. Click Preview and, in Tag Assistant:
