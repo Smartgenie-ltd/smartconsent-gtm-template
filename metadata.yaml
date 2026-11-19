@@ -1,0 +1,5 @@
+homepage: "https://www.smartgenie.co.uk/smartconsent"
+documentation: "https://www.smartgenie.co.uk/smartconsent"
+versions:
+  - sha: 1cd3a39b9a07aa17138884d7e9be2f0d9e009d4d
+    changeNotes: Initial release.
